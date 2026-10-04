@@ -1,0 +1,5 @@
+com\framework\stepdefinitions\WindlowSteps.class
+com\framework\stepdefinitions\BaseSteps.class
+com\framework\stepdefinitions\Homesteps.class
+com\framework\stepdefinitions\LoginSteps.class
+com\framework\runners\TestRunner.class
